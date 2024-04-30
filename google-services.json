@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823905737659",
+    "project_id": "parkeatec",
+    "storage_bucket": "parkeatec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823905737659:android:526b5db87de9a21d1e829e",
+        "android_client_info": {
+          "package_name": "com.ite.parkeatec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ86umR9RAKwTadfYlJY1IE6Gmka0Rfus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
